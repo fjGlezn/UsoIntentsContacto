@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Identidad Personalizada</string>
+
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="hint_fechaNace">Fecha</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_telefono">Telefono</string>
+    <string name="descripcion_contacto">Descripción contacto</string>
+
+    <!--Botones -->
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar Datos</string>
+    <string name="btn_fecha">Fecha Nacimiento</string>
+
+    <string name="confirmar_datos">Confirmar Datos</string>
+
+    <string name="error_msg_email">Ingrese un correo válido</string>
+
+    <!--Confirmar datos layout-->
+    <string name="texto_nombre">Juan Perez</string>
+    <string name="texto_fecha"> Fecha Nacimiento:  </string>
+    <string name="texto_tel">Tel: </string>
+    <string name="texto_email">Email: </string>
+    <string name="texto_descripcion">Descripción:</string>
+
+    <!--Valores de datos -->
+    <string name="valor_fecha">  12/12/2000</string>
+    <string name="valor_tel">55355656</string>
+    <string name="valor_email">ejemplo@companyname.com</string>
+    <string name="valor_descripcion">Texto de descripción</string>
+
+
+    <!--Parametros -->
+    <string name="pnombre">nombre</string>
+    <string name="pfechanace">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdecrip">descripcion</string>
+
+
+</resources>
